@@ -1,3 +1,5 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
 # Asynchronous Voting Using GitVote
 
 [GitVote](https://github.com/cncf/gitvote) is a GitHub application that allows holding a vote on issues and pull requests.
