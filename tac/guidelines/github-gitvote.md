@@ -30,6 +30,6 @@ It is strongly recommended that anyone invoking GitVote in an issue or pull requ
 
 ## GitVote Usage Example
 
-[Governance PR #475 – Example GitVote usage in a pull request](https://github.com/hiero-ledger/governance/pull/475)
-[TSC Issue #277 – Example GitVote usage in an issue](https://github.com/hiero-ledger/tsc/issues/277)
+- [Governance PR #475 – Example GitVote usage in a pull request](https://github.com/hiero-ledger/governance/pull/475)
+- [TSC Issue #277 – Example GitVote usage in an issue](https://github.com/hiero-ledger/tsc/issues/277)
 
