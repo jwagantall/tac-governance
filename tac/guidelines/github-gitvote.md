@@ -1,7 +1,7 @@
 # Asynchronous Voting Using GitVote
 
 [GitVote](https://github.com/cncf/gitvote) is a GitHub application that allows holding a vote on issues and pull requests.
-More background information and how GitVote can be configured can be found in the original GitVote documentation site. 
+More background information and configuration options are described in the [GitVote documentation](https://github.com/cncf/gitvote/tree/main/docs).
 
 ## How to Configure GitVote?
 
@@ -12,7 +12,7 @@ GitVote allows for a great flexibility of options to perform a vote. As describe
 
 This file contains an array of options for teams to customize their vote on issues and pull requests.
 
-Project maintainers can either create a local .gitvote.yml file in the root of their repo with the desired configuration that allows them to conform to their voting process. This configuration file will take precedence over an existing configuration file inn the .github repository of the organization.
+Project maintainers can either create a local .gitvote.yml file in the root of their repo with the desired configuration that allows them to conform to their voting process. This configuration file will take precedence over an existing configuration file in the .github repository of the organization.
 
 ## When and How to Cast an Asynchronous Vote
 
@@ -30,6 +30,6 @@ It is strongly recommended that anyone invoking GitVote in an issue or pull requ
 
 ## GitVote Usage Example
 
-https://github.com/hiero-ledger/governance/pull/475
-https://github.com/hiero-ledger/tsc/issues/277
+[Governance PR #475 – Example GitVote usage in a pull request](https://github.com/hiero-ledger/governance/pull/475)
+[TSC Issue #277 – Example GitVote usage in an issue](https://github.com/hiero-ledger/tsc/issues/277)
 
